@@ -1,4 +1,4 @@
-![Proxima Forma](https://raw.githubusercontent.com/proximaforma/claude-plugin/main/assets/proxima-forma-icon.png)
+![Proxima Forma](https://raw.githubusercontent.com/proximaforma/claude-plugin/main/assets/proxima-forma-mark-192.png)
 
 # Proxima Forma
 
