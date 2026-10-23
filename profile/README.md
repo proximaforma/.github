@@ -27,6 +27,6 @@ See the plugin repository for setup instructions and current directory-submissio
 
 ## Contact
 
-Proxima Forma is operated by **RatioSky LTD**. For product support, privacy requests or security reports, contact **support@proximaforma.com**. Never post tokens, sign-in codes or private artwork in public issues.
+Proxima Forma is operated by **Agentikus LTD**. For product support, privacy requests or security reports, contact **support@proximaforma.com**. Never post tokens, sign-in codes or private artwork in public issues.
 
 [Privacy](https://proximaforma.com/privacy) · [Terms](https://proximaforma.com/terms) · [Legal notice](https://proximaforma.com/impressum)
